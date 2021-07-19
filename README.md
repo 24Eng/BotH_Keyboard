@@ -10,3 +10,14 @@ Four is not a lot, so the wheel lets me change layers without fuss. I can go fro
 I would probably use a larger battery if I built a second one, but it is still possible to use this while connected to any USB charger. The core is an ESP32 and uses Bluetooth Low-Energy to emulate a keyboard.
 
 My build log is at 24hourengineer.com. 
+
+Helpful links and library sources
+TTGO ESP32 module
+https://github.com/Xinyuan-LilyGO/TTGO-T-Display
+
+ESP32 module links
+https://robotzero.one/heltec-wifi-kit-32/
+https://github.com/Heltec-Aaron-Lee/WiFi_Kit_series
+
+Display drivers
+https://github.com/olikraus/u8g2
